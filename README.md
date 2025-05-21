@@ -1,5 +1,5 @@
 ## 👋 Hey there! Glad You Dropped By
-
+<p>Welcome to my GitHub! I'm a full stack developer with two years of hands-on volunteer experience and a strong focus on building real-world projects that make an impact.</p>
 
 <!--
 **Gigi-dev21/Gigi-dev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
