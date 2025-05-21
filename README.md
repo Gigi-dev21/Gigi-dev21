@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hey there! Glad You Dropped By
 
 <!--
 **Gigi-dev21/Gigi-dev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
