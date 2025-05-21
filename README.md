@@ -1,5 +1,5 @@
 ## 👋 Hey there! Glad You Dropped By
-<p>Welcome to Embet's GitHub! I'm a full stack developer with 1+ of hands-on volunteer experience and a strong focus on building real-world projects that make an impact.</p>
+<p>Welcome to Gigi's GitHub! I'm a full stack developer with 1+ of hands-on volunteer experience and a strong focus on building real-world projects that make an impact.</p>
 
 
 <h2>💻 Tech Stack</h2>
