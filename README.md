@@ -1,6 +1,6 @@
 ## 👋 Hey there! Glad You Dropped By
 
-# 👨‍💻 Embet | Full Stack Developer with 2 Years of Hands-on Experience in Volunteering & Personal Projects
+
 <!--
 **Gigi-dev21/Gigi-dev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
