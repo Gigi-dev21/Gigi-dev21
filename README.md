@@ -63,17 +63,20 @@
   </ul>
 </article>
 <h3>🚀 Projects</h3>
-<p> I have built several project clones where I used popular websites as examples and recreated both the frontend and backend from scratch. These projects helped me understand how these platforms work behind the scenes and improve my full-stack skills. Some of the notable clones include:</p>
+<p> I have built several project clones where I used popular websites/app/games as examples and recreated both the frontend and backend from scratch. These projects helped me understand how these platforms work behind the scenes and improve my full-stack skills. Some of the notable clones include:</p>
 <ul>
   <li>Netflix, Amazon, Zoom, Instagram, WhatsApp, Apple</li>
+  <li>Angry Birds Game Clone (C# and Unity)</li>
 </ul>
 <p><em>More projects available in the Repositories tab!</em></p>
 <br/>
 <h2>✅ Certifications</h2>
 <ul>
+<li>C# Programming for Unity Game Development (Coursera/ University of Colorado System)</li>
 <li>AWS Certified Cloud Practitioner</li>
 <li>IBM Data Science Professional Certificate</li>
 <li>Evangadi Full Stack Development Certificate</li>
+  
 </ul>
   
 <br/>
