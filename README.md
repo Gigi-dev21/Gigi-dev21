@@ -13,7 +13,7 @@
   <tbody>
     <tr>
       <td style="padding:8px; font-weight:bold; color:#1E90FF;">📝 Languages</td>
-      <td style="padding:8px;">JavaScript, Python, Java, SQL, TypeScript, HTML, CSS, Bash</td>
+      <td style="padding:8px;">JavaScript, Python, Java, C#, SQL, TypeScript, HTML, CSS, Bash</td>
     </tr>
     <tr>
       <td style="padding:8px; font-weight:bold; color:#1E90FF;">⚙️ Frameworks</td>
@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <td style="padding:8px; font-weight:bold; color:#FF8C00;">🛠️ Tools & Platforms</td>
-      <td style="padding:8px;">GitHub, VS Code, IntelliJ, Jira, Postman, Microsoft Office Suite</td>
+      <td style="padding:8px;">GitHub, VS Code, IntelliJ, Unity, Jira, Postman, Microsoft Office Suite</td>
     </tr>
     <tr>
       <td style="padding:8px; font-weight:bold; color:#FF1493;">🎨 Design & UI Libraries</td>
