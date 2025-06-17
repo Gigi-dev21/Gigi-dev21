@@ -1,5 +1,5 @@
 ## 👋 Hey there! Glad You Dropped By
-<p>Welcome to Gigi's gitHub! I'm a full stack developer with 1+ of hands-on volunteer experience and a strong focus on building real-world projects that make an impact.</p>
+<p>Welcome to Gigi's gitHub! I'm a full-stack developer with over 2 years of hands-on experience since the beginning of my coding journey. I've gained practical experience through volunteer work and by building real-world projects that create value and solve everyday problems.</p>
 
 
 <h2>💻 Tech Stack</h2>
@@ -84,4 +84,4 @@
   <li>📧 embetm27@gmail.com</li>
 </ul>
 <br/>
-<p>Thanks for visiting! Feel free to fork a project, raise an issue, or reach out if you’d like to collaborate.</p>
+<p>Thanks for visiting! Feel free to raise an issue, or reach out if you’d like to collaborate.</p>
